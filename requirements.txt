@@ -8,7 +8,7 @@ black==24.4.0
 boto3==1.34.89
 botocore==1.34.89
 cattrs==23.2.3
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
